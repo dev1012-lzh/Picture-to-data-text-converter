@@ -13,4 +13,16 @@
 
 *{
     font-family: 'Noto Sans',sans-serif;
+    
+}
+html{
+    margin: 0px;
+}
+header{
+    position: fixed;
+    width: 100%;
+    background-color: rgb(20, 103, 175);
+    color: white;
+    font-size: 20px;
+    
 }
