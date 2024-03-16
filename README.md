@@ -1,7 +1,8 @@
-# Picture-to-data-text-converter
+## Picture-to-`data:image`
 Picture to data:image converter
 
-## Details
+# Details
+## Using Picture-to-`data:image`
 Uplaod a picture, then get `data:image` string output.
 
 ## Using data:image
