@@ -13,7 +13,8 @@ Uplaod a picture, then get `data:image` string output.
 1. Embed image in your html without server.
 2. Can be viewed on any device with a browser.
 <br> 
-Learn more about Data URLs (here)[https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs]
+Learn more about Data URLs [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs)
+
 ## Reporting a bug
 Please open an issue, and if any ,please fork your solution.
 
